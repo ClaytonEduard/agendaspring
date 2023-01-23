@@ -8,6 +8,7 @@ class AgendaspringApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Tesste");
 	}
 
 }

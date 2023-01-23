@@ -8,7 +8,6 @@ public class AgendaspringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AgendaspringApplication.class, args);
-
 		System.out.println("Rodou");
 	}
 
